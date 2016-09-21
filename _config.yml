@@ -17,7 +17,7 @@ disqus_shortname: ''
 # Details for the RSS feed generator
 url:            'http://www.sterkfwo.be'
 author:         'Onderzoekers voor een sterker FWO'
-authorTwitter:  'Onderzoekers voor een sterker FWO'
+authorTwitter:  'OnderzoekersVoorEenSterkerFWO'
 
 permalink:       /:year/:title/
 

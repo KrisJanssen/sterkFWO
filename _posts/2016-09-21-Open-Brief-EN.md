@@ -18,11 +18,11 @@ The clock is ticking and it is high time that we break out of the negative spira
 
 Scientists for a stronger FWO, represented by:
 
-Annemie Bogaerts - UAntwerpen
+**Annemie Bogaerts - UAntwerpen
 Johan Hofkens – KULeuven
 Alexander Sevrin - VUB
 Marlies Van Bael - UHasselt
-Veronique Van Speybroeck – UGent
+Veronique Van Speybroeck – UGent**
 
-September 21, 2016
+*September 21, 2016*
 

@@ -18,10 +18,10 @@ De klok tikt en het is hoog tijd om de negatieve spiraal waar we al een aantal j
 
 Onderzoekers voor een sterker FWO, vertegenwoordigd door:
 
-Annemie Bogaerts - UAntwerpen
-Johan Hofkens – KULeuven
-Alexander Sevrin - VUB
-Marlies Van Bael - UHasselt
-Veronique Van Speybroeck – UGent
+**Annemie Bogaerts - UAntwerpen**
+**Johan Hofkens – KULeuven**
+**Alexander Sevrin - VUB**
+**Marlies Van Bael - UHasselt**
+**Veronique Van Speybroeck – UGent**
 
-21 september 2016
+*21 september 2016*

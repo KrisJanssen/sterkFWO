@@ -5,8 +5,8 @@ profile: true
 published: true
 ---
 
-Deze website is een initiatief van de Onderzoekers voor een sterk FWO.
+Deze website is een initiatief van de Onderzoekers voor een sterker FWO.
 
-This website is an initiative of the Researchers for a strong FWO.
+This website is an initiative of the Researchers for a stronger FWO.
 
 {% include footer.html %}

@@ -1,4 +1,4 @@
-name: Onderzoekers voor een sterk FWO
+name: Onderzoekers voor een sterker FWO
 description: "Structureel gebrek aan middelen voor fundamenteel onderzoek bij het FWO bedreigt de Vlaamse kennismaatschappij"
 meta_description: "Onderzoekers voor een sterk FWO - Structureel gebrek aan middelen voor fundamenteel onderzoek bij het FWO bedreigt de Vlaamse kennismaatschappij"
 
@@ -16,8 +16,8 @@ disqus_shortname: ''
 
 # Details for the RSS feed generator
 url:            'http://www.sterkfwo.be'
-author:         'Onderzoekers voor een sterk FWO'
-authorTwitter:  'Onderzoekers voor een sterk FWO'
+author:         'Onderzoekers voor een sterker FWO'
+authorTwitter:  'Onderzoekers voor een sterker FWO'
 
 permalink:       /:year/:title/
 

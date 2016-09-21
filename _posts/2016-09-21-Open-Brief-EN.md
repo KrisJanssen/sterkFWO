@@ -1,7 +1,7 @@
 ---
 title: "Structural funding gap for fundamental research at the FWO threatens Flemish knowledge society"
 date:
-  "Wed Sep 15 2016 09:00:00 GMT+0100 (CET)": null
+  "Wed Sep 21 2016 09:00:00 GMT+0100 (CET)": null
 description: Open letter to the Flemish Government
 published: true
 ---

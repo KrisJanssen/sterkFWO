@@ -1,7 +1,7 @@
 ---
 title: "Structureel gebrek aan middelen voor fundamenteel onderzoek bij het FWO bedreigt de Vlaamse kennismaatschappij"
 date:
-  "Wed Sep 15 2016 09:00:00 GMT+0100 (CET)": null
+  "Wed Sep 21 2016 09:00:00 GMT+0100 (CET)": null
 description: Open brief aan de Vlaamse Regering
 published: true
 ---

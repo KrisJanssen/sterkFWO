@@ -1,0 +1,19 @@
+<div class="profile">
+    <section id="wrapper">
+        <header id="header">
+        {% if site.aboutPage %}
+            <a href="{{ site.baseurl }}about">
+                <img id="avatar" class="2x" src="{{ site.baseurl }}assets/images/avatar.png"/>
+            </a>
+        {% else %}
+            <img id="avatar" class="2x" src="{{ site.baseurl }}assets/images/avatar.png"/>
+        {% endif %}
+            <h1>{{ site.description }}</h1>
+            <h2>{{ site.author }}</h2>
+
+        </header>
+    </section>
+    <section id="wrapper">
+        <iframe src="https://www.change.org/embed/p/8227217/preview" style="text-align:center;width:100%; height:600px;"></iframe>
+    </section>
+</div>

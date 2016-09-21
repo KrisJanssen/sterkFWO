@@ -1,0 +1,44 @@
+name: Onderzoekers voor een sterk FWO
+description: "Structureel gebrek aan middelen voor fundamenteel onderzoek bij het FWO bedreigt de Vlaamse kennismaatschappij"
+meta_description: "Onderzoekers voor een sterk FWO - Structureel gebrek aan middelen voor fundamenteel onderzoek bij het FWO bedreigt de Vlaamse kennismaatschappij"
+
+aboutPage: true
+
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 20
+baseurl: /
+domain_name: 'http://www.sterkfwo.be'
+google_analytics: 'UA-84559736-1'
+disqus: false
+disqus_shortname: ''
+
+# Details for the RSS feed generator
+url:            'http://www.sterkfwo.be'
+author:         'Onderzoekers voor een sterk FWO'
+authorTwitter:  'Onderzoekers voor een sterk FWO'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
+
+gems: [jekyll-paginate]

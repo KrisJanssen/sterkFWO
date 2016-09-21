@@ -5,6 +5,10 @@ date:
 description: Bijkomende informatie
 published: true
 ---
+In de open open brief aan de Vlaamse Regering wordt verwezen naar een aantal feiten en cijfers. Deze zijn terug te vinden via onderstaande verwijzingen.
+
+In the open letter to the Flemish Government, some facts and figures are mentioned which can be found by following the links below.
+
 
 1. FWO
 	

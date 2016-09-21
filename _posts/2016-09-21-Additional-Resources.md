@@ -2,7 +2,7 @@
 title: Feiten en cijfers
 date:
   'Wed Sep 15 2016 08:55:00 GMT+0100 (CET)': null
-description: Feiten en cijfers
+description: Facts and figures
 published: true
 ---
 In de open open brief aan de Vlaamse Regering wordt verwezen naar een aantal feiten en cijfers. Deze zijn terug te vinden via onderstaande verwijzingen.
